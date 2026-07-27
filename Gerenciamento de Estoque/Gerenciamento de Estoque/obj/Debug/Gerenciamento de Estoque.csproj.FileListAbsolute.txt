@@ -1,0 +1,8 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\obj\Debug\Gerenciamento de Estoque.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\obj\Debug\Gerenciamento_de_Estoque.MainForm.resources
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\obj\Debug\Gerenciamento de Estoque.csproj.GenerateResource.Cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\bin\Debug\Gerenciamento de Estoque.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\bin\Debug\Gerenciamento de Estoque.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\bin\Debug\Gerenciamento de Estoque.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\obj\Debug\Gerenciamento de Estoque.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Gerenciamento de Estoque\Gerenciamento de Estoque\obj\Debug\Gerenciamento de Estoque.pdb
